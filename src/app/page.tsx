@@ -13,7 +13,10 @@ export default function Home() {
       <DotBackgroundDemo />
       </div>
       <HeroScrollDemo />
+      <div className="mb-20">
+
       <ThreeDCardDemo />
+      </div>
       <Footer />
 
     </main>
